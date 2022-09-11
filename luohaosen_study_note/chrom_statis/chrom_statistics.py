@@ -52,8 +52,8 @@ def main():
 
 if __name__ == '__main__':
     parser = OptionParser()
-    parser.add_option("--i", "--input", desk='excel_file', default='na', help="The excel you want to process")
-    parser.add_option("--o", "--output", desk='output_file', default='na', help="The output path of file")
+    parser.add_option("--i", "--input", dest='excel_file', default='na', help="The excel you want to process")
+    parser.add_option("--o", "--output", dest='output_file', default='na', help="The output path of file")
     options, args = parser.parse_args()
     if options.excel_file == 'na':
         main()
