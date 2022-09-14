@@ -1,0 +1,9 @@
+The statistics result is following:
+Map ratio is 97.15% = 17457691 / 17969523.0
+Duplicate ratio is 94.87% = 16562491 / 17457691
+MT ratio is 22.817% = 3983284 / 17457691
+####################################################################################################
+Total reads num is 17972286
+Genome mean depth is 0.285 = 914517209 / 3209269536
+Reads mean length is 50.88 = 914517209 / 17972286
+GC rate is 49.93% = 456597150 / 914517209

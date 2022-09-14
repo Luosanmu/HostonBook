@@ -1,0 +1,2 @@
+Chr,Start,End,Ref,Alt,Func.refGene,Gene.refGene,GeneDetail.refGene,ExonicFunc.refGene,AAChange.refGene,cytoBand,genomicSuperDups,esp6500siv2_all
+chr19,52300417,52300418,TG,-,"exonic","ZNF480",.,"frameshift deletion","ZNF480:NM_001297624:exon2:c.5_6del:p.L2fs,ZNF480:NM_144684:exon2:c.5_6del:p.L2fs","19q13.41",.,"0.6134"
