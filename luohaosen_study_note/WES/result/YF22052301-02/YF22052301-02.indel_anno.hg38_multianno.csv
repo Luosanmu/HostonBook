@@ -1,2 +1,0 @@
-Chr,Start,End,Ref,Alt,Func.refGene,Gene.refGene,GeneDetail.refGene,ExonicFunc.refGene,AAChange.refGene,cytoBand,genomicSuperDups,esp6500siv2_all
-chr13,20189347,20189347,G,-,"exonic","GJB2",.,"frameshift deletion","GJB2:NM_004004:exon2:c.235delC:p.L79fs","13q12.11",.,.
